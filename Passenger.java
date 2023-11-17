@@ -36,7 +36,7 @@ class Passenger {
     public String getAddress() {
         return address;
     }
-    // Getter method to retrieve the passenger's passport number
+    // Getter method to retrieve the passenger's passport
     public int getPassportNum() {
         return passportNum;
     }
